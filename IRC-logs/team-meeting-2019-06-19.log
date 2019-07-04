@@ -1,0 +1,183 @@
+[21:00:07] <gauravsitlani> dhanesh95: o/
+[21:00:41] <dhanesh95> gauravsitlani: o/
+[21:00:54] <dhanesh95> whereistejas: gauravsitlani is here.
+[21:00:54] <whereistejas> \o/
+[21:01:27] <whereistejas> Should we go over the list we have already prepared?
+[21:01:43] <dhanesh95> Yup
+[21:01:48] <dhanesh95> gauravsitlani: You have the link?
+[21:01:51] <gauravsitlani> dhanesh95: can you share the etherpad again
+[21:02:12] <whereistejas> https://pad.disroot.org/p/PLUG_Meetup_Ideas
+[21:02:16] <dhanesh95|m> https://pad.disroot.org/p/PLUG_Meetup_Ideas
+[21:02:28] <gauravsitlani> cool
+[21:03:32] <dhanesh95> Alright. So we have quite a few ideas ready.
+[21:03:45] <dhanesh95> What we want to do here is finalise one of those ideas for our next meetup.
+[21:04:16] <gauravsitlani> 1 , 5 and 6 sounds good
+[21:05:03] <gauravsitlani> 2 and 3 we've has something similar in the past
+[21:05:14] <gauravsitlani> s/has/had
+[21:05:54] <gauravsitlani> but i think what we're missing here is the main linux admin stuff
+[21:06:09] *** Joins: werper (7d6348e2@gateway/web/freenode/ip.125.99.72.226)
+[21:06:18] <dhanesh95> Welcome werper.
+[21:06:39] <dhanesh95> gauravsitlani: I think we want to steer clear of main linux admin stuff for now.
+[21:06:40] <gauravsitlani> filesystems , storage, kernel ,  debugging etc
+[21:06:48] <dhanesh95> Or do you have different ideas?
+[21:07:08] <whereistejas> We can discuss partitioning
+[21:07:18] <whereistejas> It's something useful
+[21:07:22] <gauravsitlani> at least one talk out of the whole can be interesting
+[21:07:31] <gauravsitlani> and deep enough
+[21:07:40] <dhanesh95> werper: https://pad.disroot.org/p/PLUG_Meetup_Ideas
+[21:08:16] <whereistejas> Will we be dividing the whole meet-up into two or three talks?
+[21:09:03] <dhanesh95> here are my thoughts - I think we should start small. Get people interested and then move on to some complex tasks. Also, we should concentrate on only one topic per meetup.
+[21:09:33] <dhanesh95> The Delhi LUG is an excellent example and we can take inspiration from what they have achieved.
+[21:09:41] <whereistejas> If that's the case, the talks can build upon each other. We can start with the simple stuff and then, add complexity.
+[21:10:03] <whereistejas> dhanesh95: +1
+[21:10:55] <dhanesh95> whereistejas: That's a great idea but at the preliminary stage, I think all talks and workshops should be independent of each other. The reason being, if a person joins in at the second or third meetup, he/she will have no clue what is happening and will soon lose interest.
+[21:11:16] <dhanesh95> I'm saying this considering that we only have a few select people attending the meetups. ^^
+[21:11:29] <whereistejas> I agree.
+[21:11:30] <gauravsitlani> dhanesh95: yeah we can go ahead with that plan but we need to be consistent with our meetup plans . you know right we've had issues like that in past
+[21:11:50] <dhanesh95> The preliminary talks and workshops can help us build some audience and then we can move on to talks that build upon each other.
+[21:12:24] <dhanesh95> gauravsitlani: Very true. We've had issues. But the issues were mainly because of lack of volunteers and an audience.
+[21:12:46] <dhanesh95> I think we have enough volunteers now. Our next step should be building a good audience base.
+[21:12:56] <whereistejas> dhanesh95: In that case, we can begin with some basic stuff like text editors and getting comfy with the terminal.
+[21:13:28] <whereistejas> Essential commands like grep, sed, awk, find...
+[21:13:50] <dhanesh95> Please don't fall in line with my thoughts guys. Let me know if you have any better ideas.
+[21:14:22] <whereistejas> gauravsitlani: I think the basic commands also falls in line with your sys-admin goal.
+[21:14:36] <whereistejas> s/falls/fall
+[21:14:52] <dhanesh95> whereistejas: Sounds like a good idea. We can brand it in a way that attracts all sorts of people.
+[21:15:20] <gauravsitlani> because of lack of consistency of PLUG meetups and a whole lot of efforts put into organising them , I had lost interest at some point
+[21:15:20] <dhanesh95> Just a quick one, sed and awk was already covered by dexter in a previous meetup. :P
+[21:15:41] <gauravsitlani> whereistejas: yeah that sounds good
+[21:15:41] <whereistejas> dhanesh95: I'm new here...
+[21:15:57] <dhanesh95> gauravsitlani: Same happened with me. But I think we need to start fresh.
+[21:16:17] <dhanesh95> whereistejas: Yup. But I think we can still include those topics. Shouldn't be an issue.
+[21:16:24] <whereistejas> Indeed, in a city like Pune, linux should be flourishing.
+[21:16:46] <gauravsitlani> dhanesh95: will be happy to
+[21:16:48] <werper> Here is what I think with the previous experiences: 1. As suggested start small but it should be goal oriented. 2. Linux basic command is good to go, 3. using zsh to have a bit of tweaks and gain intrest back. 4.  Huginn could be an option to start with.
+[21:16:58] <werper> Suggestions are welcomed ;)
+[21:17:15] <gauravsitlani> a head start can be at COEP , organizing there will be great
+[21:17:26] <whereistejas> bash should be preferred over zsh
+[21:17:28] <dhanesh95> werper: God bless you!
+[21:17:32] <gauravsitlani> they are supportive and a good place to get good target audience
+[21:17:50] <dhanesh95> whereistejas: Ohhh. You don't seem to be a fan of zsh
+[21:17:55] <dhanesh95> gauravsitlani: +1
+[21:18:08] <whereistejas> dhanesh95: I'm anti-bloat.
+[21:18:32] <dhanesh95> whereistejas: zsh is cool. zsh is not bloat.
+[21:18:44] <werper> whereistejas: Give zsh a try bro it won't let you down
+[21:18:45] <dhanesh95> zsh is also powerful.
+[21:18:51] <dhanesh95> zsh is a beauty.
+[21:18:55] <dhanesh95> I'd marry zsh. :P
+[21:18:59] <whereistejas> LOL
+[21:19:37] <whereistejas> I also think that every meetup should have an activity.
+[21:19:56] <whereistejas> Like normal talks + activity
+[21:21:47] <gauravsitlani> whereistejas: yeah like a hands on some stuff can be good
+[21:21:51] <dhanesh95> Okay. So how about this - Our first meetup will be mastering your terminal. We can start off with some fish or zsh tweaks. Get people to do those on the fly. Then we'll move on to some essential commands that make life easy - sed, grep, awk, find and a couple more and then we give everyone a problem set to solve. Fastest one to solve the problem set wins.
+[21:22:05] <werper> Probably scratch would solve the problem about activity. one can create wonders out of scratch
+[21:22:08] <gauravsitlani> but that usually takes more time than we think
+[21:22:10] <whereistejas> No vim?
+[21:23:10] <whereistejas> werper: Would you explain what scratch is? I haven't heard of it, before.
+[21:23:11] <dhanesh95> The problem set will basically be a set of files and we'll ask the folks to replace some text in there. Add some additional lines and do some fancy stuff using the terminal.
+[21:23:41] <dhanesh95> whereistejas: https://scratch.mit.edu/
+[21:23:41] <gauravsitlani> we can take a small CTF task
+[21:24:15] <dhanesh95> whereistejas: About VIM, maybe that can be our next meetup topic?
+[21:24:19] <gauravsitlani> if people are not able to solve it then we can show the solution
+[21:24:19] <whereistejas> we can add a script in the end that makes using a specific command easier
+[21:24:24] <dhanesh95> Or do you want to include it in the same meetup?
+[21:24:44] <whereistejas> dhanesh95: I am okay with whatever the consensus says.
+[21:25:00] <dhanesh95> gauravsitlani: CTF task?
+[21:25:16] <dhanesh95> whereistejas: I don't understand the script idea.
+[21:25:19] <gauravsitlani> dhanesh95: Capture the Flag
+[21:25:26] <dhanesh95> gauravsitlani: Ahh.. I see.
+[21:25:46] <whereistejas> for example the find some text in some files in some folders
+[21:26:00] <whereistejas> It's a combination of grep, find and cat
+[21:26:15] <dhanesh95> whereistejas: Yes. And we'll provide this list of files and folders.
+[21:26:26] <whereistejas> We can put all of those in a script that can be used more easily
+[21:26:43] <gauravsitlani> lets have 2 talks and one small CTF problem to solve . In that way meetup won't be too long and people will remain engaged and hopefully have fun
+[21:27:03] <whereistejas> I have a couple of very effective examples of scripts. I use them to download videos from youtube and stuff.
+[21:27:05] <werper> gauravsitlani: +1
+[21:27:29] <dhanesh95> gauravsitlani: +1
+[21:27:31] <whereistejas> gauravsitlani: +1
+[21:27:53] <dhanesh95> Okay. So have we decided to have this "Mastering your Terminal" as the topic for our first meetup?
+[21:28:08] <whereistejas> dhanesh95: Sounds cool.
+[21:28:09] <dhanesh95> All in favour, say aye!
+[21:28:15] <whereistejas> Aye!
+[21:28:19] <werper> Aye!
+[21:28:35] <gauravsitlani> and one of us can get in touch with COEP folks for the location and logistics of the plan
+[21:28:48] <gauravsitlani> Aye
+[21:28:53] <dhanesh95> Awesome!
+[21:28:58] <dhanesh95> Now moving on to the next part
+[21:29:04] <dhanesh95> Delegating responsibilities
+[21:29:14] <dhanesh95> Who would like to take up designing the syllabus for this meetup?
+[21:29:28] * dhanesh95 suggests gauravsitlani and whereistejas can do that. :)
+[21:29:38] <whereistejas> Sure.
+[21:29:55] <gauravsitlani> dhanesh95: yeah
+[21:29:59] <whereistejas> I was also about to suggest that at least *two* people do it.
+[21:30:57] <dhanesh95> Cool. Just a quick overview of the syllabus - 1. fish and zsh 2. Using basic terminal commands to make life easy and 3. CTF task
+[21:31:01] <dhanesh95> Aye!?
+[21:31:09] <gauravsitlani> dhanesh95: you can share my contact details with whereistejas as I'm sometimes NA on IRC
+[21:31:21] <gauravsitlani> dhanesh95: aye
+[21:31:44] <whereistejas> fish and zsh and bash, please?
+[21:31:51] <dhanesh95> whereistejas: Sure.
+[21:32:10] <dhanesh95> gauravsitlani: Any chance you can join this channel via Riot?
+[21:32:21] <whereistejas> I say, bash because, that is what any new user would find normally.
+[21:32:42] <whereistejas> dhanesh95: I am on Riot and it is horribly slow.
+[21:32:46] <gauravsitlani> dhanesh95: i use that less as well
+[21:32:55] <dhanesh95> whereistejas: The tasks will be done in bash. fish and zsh will only be introduced to the crows.
+[21:32:58] <dhanesh95> crows*
+[21:33:10] <dhanesh95> gauravsitlani, whereistejas : Try diasp.in . It's blazing fast!
+[21:33:22] <dhanesh95> The main server is overcrowded.
+[21:33:37] <dhanesh95> Also, diasp.in is maintained by some good folks from the Free Software Community in India.
+[21:33:49] * dhanesh95 is one of those along with werper :P
+[21:33:57] <gauravsitlani> dhanesh95: cool
+[21:34:08] <dhanesh95> s/crows/crowd
+[21:34:13] <whereistejas> cool
+[21:34:18] * dhanesh95 never fixed the typo. -_-
+[21:34:53] <dhanesh95> Delete your matrix accounts. Move to diasp.in . You won't be disappointed.
+[21:35:09] <dhanesh95> And you can always complain to me or werper if something is not working.
+[21:35:49] <dhanesh95> Alright. Coming back to the discussion.
+[21:36:24] <dhanesh95> So we agree on whereistejas and gauravsitlani designing the syllabus?
+[21:36:25] <whereistejas> dhanesh95: You mean deactivate by delete, right?
+[21:36:31] <dhanesh95> whereistejas: Yes.
+[21:36:37] <gauravsitlani> dhanesh95: yeah
+[21:36:43] <dhanesh95> Aye!
+[21:36:59] <dhanesh95> werper: ?
+[21:37:05] <werper> Aye!
+[21:37:16] <whereistejas> Aye!
+[21:37:29] <dhanesh95> Awesome. Next up - designing some cool banners.
+[21:37:44] <dhanesh95> werper: Perfect for the job!
+[21:37:54] <werper> dhanesh95: I'll take that
+[21:38:19] <dhanesh95> I just had an idea.
+[21:38:33] <dhanesh95> While we're designing these banners, let's give something back to the community.
+[21:38:43] <whereistejas> dhanesh95: What should I put in the home server and identity server?
+[21:38:44] <dhanesh95> Let's release these under the CC0 licence.
+[21:39:02] <dhanesh95> whereistejas: diasp.in in home server. You can leave the identity server blank.
+[21:39:06] <dhanesh95> Or vector.im
+[21:39:43] <dhanesh95> So we can release these templates on wikimedia so that others can reuse it too.
+[21:39:51] <dhanesh95> werper: Do you think you can do something like this?
+[21:40:38] <whereistejas> dhanesh95: It says registration closed :(
+[21:40:51] <werper> dhanesh95: Probably yes but not sure about the CC0 licence
+[21:40:56] <dhanesh95> whereistejas: That's not possible. Where are you trying to register?
+[21:41:13] <dhanesh95> werper: Any other licence which will allow the reuse of the designs is good.
+[21:41:34] <dhanesh95> As we are doing this for a FOSS community, everything we do should ideally be FOSS
+[21:42:46] <dhanesh95> Let's think about this later. But I think werper should handle designs. He is good at it.
+[21:42:48] <dhanesh95> Aye!?
+[21:43:02] <werper> dhanesh95: Aye!
+[21:43:15] <gauravsitlani> hey guys sorry but i need to drop off , take some rest . dhanesh95 : can you share the chat logs with me on signal and i can chip in later tomorrow
+[21:43:36] <dhanesh95> gauravsitlani: Sure.
+[21:43:48] <dhanesh95> Just a few minutes and we'll be done here.
+[21:44:05] <whereistejas> dhanesh95: I am using the Riot mobile app
+[21:44:25] <dhanesh95> whereistejas: Let's finish this meeting and then get you registered?
+[21:44:39] <whereistejas> Sure.
+[21:45:20] <dhanesh95> Awesome. So shall we ask werper to design some awesome banners?
+[21:45:42] <whereistejas> Aye!
+[21:46:45] <dhanesh95> Alright. I think the remaining responsibility is some marketing, coordinating with other PLUG members and asking around for a space to host the meetup.
+[21:47:03] <dhanesh95> I can volunteer to take it up. Unless anyone else wants to do it.
+[21:47:42] <werper> dhanesh95: You take it up bro
+[21:48:15] <gauravsitlani> dhanesh95: i can help you with that as well
+[21:48:41] <dhanesh95> gauravsitlani: That'll be great. You have some connections which can be helpful.
+[21:48:58] <whereistejas> Sorry, folks. I need to leave. I will catch up with your conversations through the logs.
+[21:49:05] <gauravsitlani> dhanesh95: i meant we both can do it
+[21:49:14] <dhanesh95> gauravsitlani: Yup.
+[21:49:18] <dhanesh95> I think that's it then.
+[21:49:27] <dhanesh95> Unless anyone else has anything to add?
+[21:49:52] <werper> Nothing from my side
+[21:49:53] <gauravsitlani> nope. see you guys later , good night.
+[21:50:19] <dhanesh95> gauravsitlani: Good night!

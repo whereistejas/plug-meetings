@@ -1,0 +1,208 @@
+[21:35:51] <whereistejas> hey!
+[21:36:09] <whereistejas> is werper going to join us?
+[21:36:13] <dhanesh95|m> Hello!
+[21:36:39] <whereistejas> surajmishra[m]: you there?
+[21:37:38] <whereistejas> dhanesh95|m: we should talk to #dgplug about how to get people on IRC
+[21:38:12] <whereistejas> like, if they have any strategies
+[21:38:57] <whereistejas> or you can start announcing meetings on the PLUG mailing list
+[21:39:02] <surajmishra[m]> <whereistejas "surajmishra: you there?"> Yup. I am here.
+[21:42:44] <dhanesh95|m> <whereistejas "is werper going to join us?"> Unfortunately no.
+[21:43:05] <dhanesh95|m> <whereistejas "dhanesh95: we should talk to #dg"> I think the strategy they have is conducting a training over IRC. Other than that, there's nothing else that attracts people to IRC.
+[21:43:26] <dhanesh95|m> Announcing meetings on Mailing list seems to be the best way.
+[21:44:29] <surajmishra[m]> <dhanesh95|m "Announcing meetings on Mailing l"> I agree.
+[21:44:33] *** Joins: dhanesh95 (~Dhanesh@117.195.14.97)
+[21:45:32] <dhanesh95> Alright. Let's do this. I'm on HexChat now.
+[21:45:36] <dhanesh95> This is better than Riot.
+[21:45:42] <whereistejas> I agree
+[21:46:19] <whereistejas> I think meetup meetings on Saturday evenings or Friday evenings should be made regular
+[21:46:28] <whereistejas> like a feel free to join session
+[21:47:35] <dhanesh95> whereistejas: Excellent idea. Let's create an email and send it on the mailing list after this.
+[21:48:12] <surajmishra[m]> Agreed
+[21:48:22] <dhanesh95> whereistejas: You wanted to work in Linux stuff, right?
+[21:49:02] <whereistejas> today we should focus on:
+[21:49:02] <whereistejas> 1. deciding the meetup date
+[21:49:02] <whereistejas> 2. list possible meetup locations
+[21:49:02] <whereistejas> 3. make a GitHub page to list possible topics for meetups which anyone can  edit
+[21:49:14] <whereistejas> whereistejas: yes, 100%
+[21:49:33] <dhanesh95> Give me a few mins, brb.
+[21:49:38] <whereistejas> cool
+[21:50:00] <whereistejas> surajmishra[m]: do you have any GitHub experience?
+[21:50:25] <surajmishra[m]> <whereistejas "cool"> Where do you live? Did you leave PG?
+[21:50:26] <surajmishra[m]> <whereistejas "surajmishra: do you have any Git"> Yes.
+[21:50:48] <whereistejas> as of now, I am in Nasik (my hometown)
+[21:51:13] <surajmishra[m]> <whereistejas "as of now, I am in Nasik (my hom"> Alright.
+[21:51:55] <whereistejas> surajmishra[m]: we should make that GitHub page, it's really effective if people can look into what is currently happening in a group
+[21:52:05] <surajmishra[m]> Should we make a repo on Github or Gitlab?
+[21:52:34] <whereistejas> GitHub, I guess... Since, it's the most used...
+[21:52:50] <surajmishra[m]> <whereistejas "surajmishra: we should make that"> Yup. Agreed. What would be better?  A github static page or a repo?
+[21:52:55] <whereistejas> but, gitlab is a nice option, too.
+[21:53:02] <surajmishra[m]> <whereistejas "GitHub, I guess... Since, it's t"> Alright.
+[21:53:08] <whereistejas> a repo and a static page
+[21:53:34] <surajmishra[m]> <whereistejas "a repo and a static page"> Done.
+[21:54:21] <whereistejas> let's try to think of what information we should share and how to share it
+[21:54:43] <whereistejas> we can report back to each other in a few days
+[21:54:46] <whereistejas> cool?
+[21:55:18] <surajmishra[m]> <whereistejas "cool?"> Yup alright.
+[22:00:58] <dhanesh95> bck
+[22:01:29] <whereistejas> the meetup date...
+[22:02:35] <dhanesh95> Okay. I read the backlog.
+[22:02:41] <dhanesh95> PLUG already has a GitHub account. We need to gain access to it.
+[22:03:12] <surajmishra[m]> <dhanesh95 "bck"> I am making a Github profile.
+[22:03:39] <whereistejas> surajmishra[m]: If there is already one, we should prefer using that one
+[22:03:56] <dhanesh95> https://github.com/pune-lug
+[22:03:56] <whereistejas> dhanesh95: Can the access be arranged?
+[22:04:13] <surajmishra[m]> What should I name it?
+[22:04:13] <surajmishra[m]> Pluggies is available.
+[22:04:28] * surajmishra[m] uploaded an image: VectorImage_2019-07-04_100204.jpg (5210KB) < https://matrix.org/_matrix/media/v1/download/matrix.org/KYzdcozGXKtXnJUWueAHjrNJ >
+[22:04:30] <surajmishra[m]> Testing testing.
+[22:04:31] <surajmishra[m]> Everyone receiving my messages?
+[22:04:40] <dhanesh95> surajmishra[m]: I don't think we should create a duplicate GitHub profile.
+[22:05:01] <whereistejas> surajmishra[m]: still receiving
+[22:05:41] <dhanesh95|m> surajmishra: Ping
+[22:05:43] <dhanesh95|m> Can you read this?
+[22:05:52] <surajmishra[m]> <whereistejas "surajmishra: If there is already"> Agreed.
+[22:05:55] <surajmishra[m]> <dhanesh95 "PLUG already has a GitHub accoun"> Okay
+[22:06:25] <surajmishra[m]> <dhanesh95|m "Can you read this?"> Yup. Just received all the messages.
+[22:08:25] <whereistejas> dhanesh95: there is someone called Shantanoo on github, whose email is visible...
+[22:09:04] <surajmishra[m]> <whereistejas "dhanesh95: there is someone call"> Yes. The guy with the monkey in his profile.
+[22:09:32] <whereistejas> and Johnson Chetty
+[22:09:43] <whereistejas> he seems like an interesting fellow
+[22:11:15] <whereistejas> oh shantanoo is also the person who set the topic of this channel
+[22:13:47] <surajmishra[m]> Has anyone dropped them an email yet?
+[22:15:26] <dhanesh95> Okay. Here's what I suggest. Let's not spend time on GitHub profiles. We already have one and let's try to get access to it. But to get access, we need to establish ourselves as regular members.
+[22:16:02] <dhanesh95> 2. Let's use the same Etherpad page to collaborate on topics. It's easy to use and doesn't need any kind of sign up to edit the content.s
+[22:16:29] <surajmishra[m]> Okay.
+[22:16:57] <whereistejas> cool
+[22:17:41] <dhanesh95> Does anyone have the link to the Etherpad page?
+[22:17:48] <dhanesh95> I lost it. :P
+[22:18:07] <whereistejas> https://pad.disroot.org/p/PLUG_Meetup_Ideas
+[22:18:21] <dhanesh95> whereistejas: Awesome! Thanks!
+[22:18:30] <dhanesh95> So do we agree to use the existing stuff we have?
+[22:18:53] <whereistejas> Yes.
+[22:19:07] <surajmishra[m]> Yes. Absolutely.
+[22:20:20] <whereistejas> the meetup date?
+[22:20:29] <dhanesh95> Cool. What's next on the agenda?
+[22:20:35] <dhanesh95> Meetup date. Yes.
+[22:21:25] <whereistejas> But, I think we should first decide on the location
+[22:21:49] <whereistejas> Since, we can be as flexible as we want on the date
+[22:22:15] <whereistejas> And, the date sort of depends on the location
+[22:22:33] <whereistejas> s/location/location availability
+[22:22:41] <dhanesh95> I just received a text from a person named Mangesh Divate. He is a part of the Debian community. Debian Buster will be released on the 6th and he is eager to plan a release party. I'm thinking we can collaborate with him. What are your thoughts?
+[22:23:21] <whereistejas> Will they be having their own talks, too?
+[22:23:46] <dhanesh95> The thing is, they contains Mangesh and I. :P
+[22:23:54] <whereistejas> lol
+[22:24:03] <dhanesh95> We were the ones to take the initiative and start the discussion.
+[22:24:10] <whereistejas> Then, I don't see any issues.
+[22:24:11] <dhanesh95> So we can hit two birds in one stone.
+[22:24:27] <dhanesh95> Debian Buster release party in association with PLUG
+[22:25:07] <whereistejas> It's actually even better
+[22:25:32] <whereistejas> More people will get to know about PLUG
+[22:26:00] <dhanesh95> Now back when we started this discussion we were planning for 7th July. However, it's evident that the possibility of that happening is little to none.
+[22:26:16] <whereistejas> A distro-secular Linux Interest Group.;)
+[22:26:30] <dhanesh95> whereistejas: +1
+[22:27:04] <whereistejas> We can do a 20-ish date, comfortably
+[22:27:43] <surajmishra[m]> Sorry I am out of the loop here.
+[22:27:44] <whereistejas> surajmishra[m]: are you in Pune?
+[22:27:44] <surajmishra[m]> <dhanesh95 "Now back when we started this di"> Wait, why?
+[22:28:06] <surajmishra[m]> <whereistejas "surajmishra: are you in Pune?"> Yup.
+[22:28:09] <whereistejas> surajmishra[m]: He is referring to the Debian release party
+[22:28:31] <dhanesh95> surajmishra[m]: 7th July is this Saturday. We don't have enough time to plan this.
+[22:28:44] <dhanesh95> Now, Mangesh has found a location - https://www.91springboard.com/coworking-space/yerwada-pune/
+[22:29:28] <dhanesh95> It's a good option but it is kinda on the outskirts. And I'm hesitant to conduct a meetup that is on the outskirts of Pune. Especially the getting started ones.
+[22:29:52] <whereistejas> 91springboard is also present in Mumbai
+[22:31:28] <dhanesh95> So when it comes to locations, I'd suggest either COEP or SICSR
+[22:31:52] <dhanesh95> SICSR shouldn't be a problem as most of the PLUG meets happen there.
+[22:32:04] <surajmishra[m]> <dhanesh95 "surajmishra: 7th July is this Sa"> It's Sunday. But yes. It's my mom's birthday on 7th
+[22:33:03] <dhanesh95> Happy Birthday in advance surajmishra[m]'s mom! :D
+[22:33:24] <surajmishra[m]> <surajmishra[m] "It's Sunday. But yes. It's my mo"> So 20 and after it is fine.
+[22:34:25] <surajmishra[m]> <dhanesh95 "Happy Birthday in advance surajm"> Hahahaha. Thank you. I'll convey your wishes to her.
+[22:35:24] <dhanesh95> Okay. So how does 21st July sound to everyone?
+[22:35:39] <whereistejas> dhanesh95: isn't yerwada close to KP?
+[22:35:51] <dhanesh95> Yes.
+[22:36:16] <whereistejas> So, I think it's an okay location for a meetup, I guess...
+[22:36:33] <whereistejas> College students go to KP to hang out all the time.
+[22:37:50] <whereistejas> 21st sounds good
+[22:38:01] <dhanesh95> It sure is a good location. I'm just a bit skeptical about the attendees reaching there. Given the demographic we're targeting, people don't usually travel too far just to attend a release party and eat some cake.
+[22:38:36] <whereistejas> dhanesh95: haha... some people go to great lengths for good food
+[22:39:47] <dhanesh95> whereistejas: Sure do. But does a Monginis cake break into that category? :P
+[22:40:13] <whereistejas> dhanesh95: it sure beats hostel/mess food
+[22:40:40] <dhanesh95> whereistejas: Hahahaha... True that.
+[22:40:53] <dhanesh95> So, what have we decided so far?
+[22:41:13] <whereistejas> 21st July and SICSR
+[22:41:44] <whereistejas> Obtaining access to plug github
+[22:42:00] <whereistejas> and sending an email to the mailing list
+[22:42:46] <dhanesh95> Apart from that we already have a poster and also an outline of the second talk about command line basics.
+[22:42:54] <whereistejas> yes
+[22:43:23] <dhanesh95> The first one about customizing your terminal with fish and zsh, who did we decide will work on it?
+[22:43:31] <whereistejas> Gaurav
+[22:43:49] <dhanesh95> Alright. Can you get an update from him about it?
+[22:44:19] <whereistejas> We have decided to finish our work by the 10th
+[22:44:34] <whereistejas> I will get an update from him
+[22:44:44] <dhanesh95> Super!
+[22:46:20] <dhanesh95> Can you guys see this link - https://board.disroot.org/project/dhanesh95-plug/kanban ?
+[22:47:00] <whereistejas> yup
+[22:47:55] <dhanesh95> Nah. Maybe this is too much.
+[22:47:58] <whereistejas> what is this?
+[22:48:11] <dhanesh95> Let's create a new section on the etherpad and note down the action items for everyone
+[22:48:30] <whereistejas> dhanesh95: That's why I suggested a github repo
+[22:48:52] <dhanesh95> whereistejas: Yes. But having a duplicate one doesn't make sense to me.
+[22:48:54] <whereistejas> we can easily update our progress to seperate documents
+[22:49:18] <whereistejas> dhanesh95: I agree with you
+[22:51:16] <whereistejas> I think taking polls on the Mailing List is also a good idea
+[22:51:34] <whereistejas> slowly, we can convert those people from Mailing List to IRC
+[22:54:26] <surajmishra[m]> Guys I am going offline. I am not feeling too well.
+[22:54:40] <surajmishra[m]> I'll catch up with you guys later.
+[22:54:55] <surajmishra[m]> Good night.
+[22:55:10] <whereistejas> surajmishra[m]: sure. take care. good night!
+[22:56:16] <dhanesh95> whereistejas: Can you think of any more action items?
+[22:56:21] <whereistejas> dhanesh95: I think that covers it all
+[22:57:04] <whereistejas> You were saying something about me wanting to work on linux?
+[22:58:05] <dhanesh95> whereistejas: I'll get to that in a moment.
+[22:58:15] <dhanesh95> About this weekly catch up thing - can you explain the idea to me?
+[22:58:59] <whereistejas> Have you noticed how certain members are always present on #dgplug and they welcome every newcomer?
+[22:59:18] <dhanesh95> Yes
+[22:59:23] <whereistejas> We can do something similar
+[22:59:47] <whereistejas> but since we can't be online all the time, let's fix a few hours of the week
+[23:00:00] <whereistejas> we can change the topic of the channel to show the next date
+[23:00:06] <whereistejas> and log it
+[23:00:21] <whereistejas> I log everything, anyways...
+[23:00:36] <whereistejas> we can put the logs on github
+[23:01:07] <whereistejas> The core idea is to make more and more content easily available online
+[23:01:51] <whereistejas> I will make a repo right now and upload this and the previous meeting logs
+[23:02:16] <whereistejas> We can add it to the plug account whenever we get access to it
+[23:02:36] <whereistejas> I will share the repo link on the disroot document
+[23:03:08] <whereistejas> what do you think?
+[23:05:15] <dhanesh95> I see. Almost a year ago, I and Raju (another awesome guy who used to be in Pune) tried to do a similar thing. We wanted to bridge this channel with Riot so that more people come here and we build a thriving community. We asked for IRC access on the mailing list. After some time the admins came back saying that admin access cannot be granted because they are against logging of messages over IRC.
+[23:06:04] <whereistejas> dhanesh95|m: but we would only be logging the meetings
+[23:06:13] <dhanesh95> Your ideas are great but we'll need OP access to the channel to efficiently execute those. And it's not easy to get that level of access here.
+[23:06:31] <whereistejas> dhanesh95: I am already logging things
+[23:06:39] <dhanesh95> whereistejas: True. And we can definitely try again, but I'd suggest not to keep high hopes about this.
+[23:06:53] <whereistejas> Understood.
+[23:07:21] <dhanesh95> whereistejas: Exactly! Anyone who would want to log messages can easily to that on IRC and no one will find out. However, the OPs are a bit adamant and maybe do not want to give away control.
+[23:07:57] <whereistejas> I think, there is a way to only allow certain users to set topics
+[23:08:15] <dhanesh95> Having said that, I encourage you to create the repo and put up the meeting contents over there.
+[23:09:01] <whereistejas> half op's
+[23:09:11] <whereistejas> https://digitalirc.org/2016/05/channel-permissions/
+[23:09:46] <dhanesh95> About the weekly catch up thing - how about we decide to do this on every Saturday at 8:00 PM?
+[23:09:53] <whereistejas> Sure.
+[23:10:05] <whereistejas> We should from this week
+[23:10:13] <dhanesh95> whereistejas: I think we should tackle the issue of IRC access after the meetup. We'll have some leverage then.
+[23:10:28] <whereistejas> and we can talk about what we have learnt in the previous week
+[23:10:53] <dhanesh95> whereistejas: Cool! Do you want to write a mail about it on the mailing list? As it is your idea, I think you'll be able to present it in a better way.
+[23:11:12] <whereistejas> cool. I agree.
+[23:11:25] <whereistejas> How about I write a draft and send it to you?
+[23:11:43] <whereistejas> We can send it tomorrow evening
+[23:11:51] <dhanesh95> To make it more fun, shout out to the SkoollookS person. Ask him to come over and share his experience on IRC instead of the mailing list.
+[23:12:07] <whereistejas> dhanesh95: I agree
+[23:12:30] <dhanesh95> whereistejas: Do you want it to be reviewed? Else, I think just go ahead and post.
+[23:13:10] <whereistejas> I would feel more comfortable if you took a look at it first
+[23:13:23] <dhanesh95> whereistejas: Sure. No worries.
+[23:13:33] <dhanesh95> Just ping me whenever you are ready with it.
+[23:13:42] <whereistejas> Cool
+[23:14:03] <whereistejas> So, I think, this is end of the meeting?
+[23:14:13] <dhanesh95> Yup. That's it I believe.
+[23:15:07] <whereistejas> Cool
+[23:15:38] <whereistejas> dhanesh95: pm?
+[23:18:12] <dhanesh95> whereistejas: https://list.plug.org.in/pipermail/plug-mail/2018-April/010983.html
+[23:20:14] <whereistejas> thanks
+[23:41:58] *** Quits: dhanesh95 (~Dhanesh@117.195.14.97) (Quit: Leaving)
