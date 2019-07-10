@@ -1,0 +1,180 @@
+[19:41:39] *** Joins: gauravsitlani (~gauravsit@1.23.195.21)
+[19:48:29] <whereistejas> gauravsitlani: will you be attending the meeting?
+[19:53:27] <gauravsitlani> whereistejas, yeah
+[19:54:07] <whereistejas> great :D
+[20:05:20] <gauravsitlani> dhanesh95, are we starting ?
+[20:05:43] <dhanesh95> Aloha folks!
+[20:05:47] <dhanesh95> gauravsitlani: Indeed.
+[20:05:56] <whereistejas> dhanesh95: werper?
+[20:06:07] <dhanesh95> Joining in 2 mins
+[20:06:31] <gauravsitlani> Wanted to know who's werper
+[20:06:59] *** Joins: werper (7d6348e2@125.99.72.226)
+[20:07:03] <whereistejas> He is the one who made the graphics for this meetup
+[20:08:22] <whereistejas> https://pad.disroot.org/p/PLUG_Meetup_Ideas#
+[20:08:28] <dhanesh95> werper is here.
+[20:09:03] <dhanesh95> For everyone who is curious about who werper is - https://werper.gitlab.io/
+[20:09:39] <dhanesh95> werper has some modifications to the poster to show off
+[20:09:53] <dhanesh95> So, what are we discussing today?
+[20:10:31] <dhanesh95> BTW, the Matrix-IRC bridge has probably farted. No messages on Riot. abhyankar[m]1 may receive them late.
+[20:10:38] <whereistejas> 1. How far the syllabus has come
+[20:10:53] <whereistejas> 2. Fix on the date and *location*
+[20:11:13] <whereistejas> 3. The possible expenses that the organisers may have to bear
+[20:11:47] <whereistejas> 4. Poster updates from werper
+[20:12:15] <gauravsitlani> Let's talk about date and location first
+[20:13:24] <gauravsitlani> regarding location , we need to send a mail to : abhijit.comp@coep.ac.in
+[20:13:38] <gauravsitlani> asking for permission to host the meetup
+[20:14:31] <gauravsitlani> for that we need the date , after having a chat with him my proposal is that we have it on 20th : Saturday
+[20:14:31] <dhanesh95> gauravsitlani: Cool. I'll take up this task.
+[20:15:12] <dhanesh95> I have no issues having it on a Saturday.
+[20:15:17] <gauravsitlani> dhanesh95++
+[20:15:48] <whereistejas> I have no issues, either.
+[20:16:37] <gauravsitlani> Cool , dhanesh95 you can mail him a rough agenda along the mail
+[20:16:53] <gauravsitlani> in that way if the location is finalized he can help us in publicizing the meetup
+[20:17:07] <gauravsitlani> dhanesh95, sounds good ?
+[20:17:23] <dhanesh95> gauravsitlani: +1
+[20:18:14] <dhanesh95> Alright, I'll contact abhijit sir and get the location part sorted. What time should we finalise for this meetup?
+[20:18:14] <gauravsitlani> cool , lets move on to next point in the agenda
+[20:18:26] <dhanesh95> I'd suggest 4PM - 6PM
+[20:18:39] <whereistejas> I think, 11 AM
+[20:18:51] <gauravsitlani> how about morning 10 - 12 noon
+[20:18:58] <whereistejas> dhanesh95: Isn't it supposed to be 3 hours?
+[20:19:36] <dhanesh95> whereistejas: I think 2 hours is sufficient?
+[20:19:57] <whereistejas> We have to account for the Debian folk, too...
+[20:20:23] <dhanesh95> whereistejas: We do. But so far the response there has been worse than PLUG.
+[20:20:43] <dhanesh95> So I'm not really worried about that right now.
+[20:20:51] <gauravsitlani> Guys lets keep it roughly  between 2 to 2:30 hours
+[20:21:00] <whereistejas> gauravsitlani: +1
+[20:21:15] <dhanesh95> There are two reasons I'm suggesting an evening time for this.
+[20:22:05] <dhanesh95> 1. PLUG meetups have historically been arranged in the evening slot. Saturday evenings are free time for people because some might be students who have college to attend to.
+[20:22:17] <dhanesh95> 2. I won't be available in the mornings. :P
+[20:22:46] <dhanesh95> However, 2 is not so important.
+[20:22:59] <dhanesh95> So let's go with the common consensus.
+[20:23:24] <whereistejas> I think, morning is more suitable from a "commuting" perspective
+[20:24:16] <dhanesh95> So let's do it in the morning then?
+[20:25:04] <abhyankar[m]1> Thats Sunday morning right?
+[20:26:30] <whereistejas> Saturday
+[20:27:25] *** Quits: gauravsitlani (~gauravsit@1.23.195.21) (Read error: Connection reset by peer)
+[20:27:41] *** Joins: gauravsitlani (~gauravsit@1.23.195.21)
+[20:27:54] <dhanesh95> So, what did we decide?
+[20:28:23] <whereistejas> Saturday, 10 - 12 AM
+[20:29:10] <abhyankar[m]1> Okies.
+[20:29:16] <dhanesh95> gauravsitlani: ?
+[20:29:19] <dhanesh95> werper: ?
+[20:29:24] <dhanesh95> abhyankar[m]1: ?
+[20:29:53] <gauravsitlani> dhanesh95, yeah ack ^
+[20:30:01] <abhyankar[m]1> 10 am till 12 pm sounds good
+[20:30:40] <werper> To sum up stuff 1. Lets keep it two hours and try not extent it
+[20:31:12] <werper> 2. 10 to 12 sounds good
+[20:31:21] <dhanesh95> Cool. 10 to 12 it is.
+[20:31:25] <abhyankar[m]1> 2 hours inc cake cutting ceremony?
+[20:31:44] <dhanesh95> abhyankar[m]1: Yes. Cake cutting will hardly take like 10-15 mins
+[20:32:03] <dhanesh95> So shall we say that "2" is resolved?
+[20:32:17] <whereistejas> So, we are having cake irrespective of Debian folk's participation?
+[20:32:29] <dhanesh95> whereistejas: You got that right!
+[20:33:02] <whereistejas> Since, we are distro-secular.
+[20:33:36] <whereistejas> Next agenda, the *talks* themselves.
+[20:36:08] <whereistejas> We have three topics for the talk:
+[20:36:42] <whereistejas> 1. gauravsitlani: customising bash/zsh/fish shell
+[20:36:59] <whereistejas> 2. whereistejas: Terminal commands
+[20:37:09] <whereistejas> 3. Capture the Flag activityy
+[20:37:20] <whereistejas> s/activityy/activuity
+[20:37:30] <gauravsitlani> whereistejas, I'll pick up 3
+[20:39:25] <whereistejas> do you have any ideas?
+[20:41:06] <gauravsitlani> whereistejas, nack not yet
+[20:41:06] <gauravsitlani> need some time , will prepare over weekend
+[20:45:03] <gauravsitlani> who's taking up 1 ?
+[20:46:28] <dhanesh95> I can but will probably happen after everything else.
+[20:46:28] <whereistejas> can we do two talks and one CTF in two hours?
+[20:46:42] <dhanesh95> Because I'll be late. Can't be there at 10.
+[20:47:35] <gauravsitlani> I'll need 45 mins at least for CTF
+[20:47:42] <dhanesh95> whereistejas: Possible. If I take up the shell talk, won't take more than 30 mins
+[20:48:22] <dhanesh95> So we have booked 1h 15 mins. whereistejas you have 45 mins. Is that enough?
+[20:48:33] <whereistejas> yup
+[20:48:38] <whereistejas> that will be enough
+[20:48:52] <dhanesh95> We can extend the meetup to 2:30 hrs
+[20:48:57] <dhanesh95> but shouldn't go beyond that
+[20:49:58] <whereistejas> I have another question
+[20:50:22] <whereistejas> How do we get an estimate of the no. of people attending?
+[20:50:45] <gauravsitlani> whereistejas, interesting question
+[20:50:53] <dhanesh95> whereistejas: We can ask people to add their names to a list somewhere on the internet.
+[20:51:01] <whereistejas> I think a google form
+[20:51:19] * dhanesh95 think we should not use anything Google for this.
+[20:51:37] <whereistejas> open a github wiki page?
+[20:51:46] <whereistejas> that anyone can edit?
+[20:52:02] <dhanesh95> But it will require a sign-in, right?
+[20:52:12] <whereistejas> it will
+[20:52:28] <dhanesh95> Then I'd suggest not that too.
+[20:52:29] <whereistejas> disroot?
+[20:52:39] <dhanesh95> Why not keep it simple and create a new pad?
+[20:52:53] <dhanesh95> We'll just ask people to add their names on the pad.
+[20:53:04] <dhanesh95> whereistejas: Yeah. A disroot pad or an etherpad pad
+[20:53:54] <dhanesh95> https://etherpad.net/
+[20:54:36] <dhanesh95> Or - https://etherpad.net/p/PLUG_Meetup_20-07-2019_Attendees
+[20:54:49] <whereistejas> A spreadsheet
+[20:54:59] <whereistejas> We can collect name and email
+[20:55:32] <whereistejas> perhaps, the institute/company, too...
+[20:55:53] <whereistejas> It's useful information
+[20:56:36] <dhanesh95> whereistejas: How are thinking of using this information?
+[20:56:43] <dhanesh95> s/are/are you
+[20:57:30] <whereistejas> We can contact students from colleges to share information about our future meetups
+[20:58:32] <whereistejas> We can just have a "student" or "employee" option?
+[20:58:52] <dhanesh95> I think let's not do that. If a person wants to be a part of future meetups and the community, they can always join the mailing list and this channel to know the updates.
+[20:59:21] <whereistejas> Cool.
+[20:59:26] <whereistejas> No issues.
+[20:59:32] <dhanesh95> We can definitely have a student/employee option
+[20:59:44] <dhanesh95> So name, email, student/employee?
+[20:59:51] <whereistejas> Yup
+[21:02:20] <dhanesh95> And shall we stick with the etherpad?
+[21:02:39] <gauravsitlani> dhanesh95, yeah
+[21:03:03] <dhanesh95> Cool. I've added some initial information. Feel free to edit it as you see fit.
+[21:03:11] <dhanesh95> Next topic?
+[21:03:19] <gauravsitlani> we don't expect a great turnout but lets do it over mailing lists and make sure that we spread the news
+[21:03:21] <whereistejas> One more thing
+[21:03:45] <whereistejas> Let's try to keep the etherpad URL as short as possible
+[21:04:14] <dhanesh95> whereistejas: +1
+[21:04:28] <dhanesh95> You have a better idea? We can always spin up a new pad.
+[21:04:58] <gauravsitlani> Guys lets try to close it soon , i am juggling between 2 meetings. Its been almost an hour
+[21:05:11] <gauravsitlani> sorry for being harsh
+[21:05:19] <whereistejas> It's okay
+[21:05:36] <dhanesh95> gauravsitlani: +1
+[21:05:43] <whereistejas> Next topic, the expenses
+[21:05:57] <whereistejas> That's includes: stickers and cake
+[21:06:17] <dhanesh95> I think it'll be around 40rs for the stickers and around 100rs for the cake.
+[21:06:22] <dhanesh95> Per person
+[21:07:06] <whereistejas> Let's try to keep it under Rs. 150
+[21:07:38] <dhanesh95> whereistejas: No other expenses apart from that. So Rs. 140 per person.
+[21:07:49] <whereistejas> Cool.
+[21:08:13] <dhanesh95> Obviously, this is a rough value and it might fluctuate a bit. But I don't think it'll go beyond 150.
+[21:08:18] <whereistejas> werper: abhyankar[m]1: ?
+[21:08:23] <dhanesh95> If more people pitch in, it will decrease.
+[21:08:44] <whereistejas> Cool
+[21:08:45] <dhanesh95> gauravsitlani: ^^
+[21:09:31] <gauravsitlani> dhanesh95, yeah cool .
+[21:10:23] <dhanesh95> Anything else we want to discuss?
+[21:10:35] <dhanesh95> Dexter has agreed to help with the stickers. So that is sorted.
+[21:10:38] <werper> Yeah lets keep it to 150 we can then adjust it according to the conditions
+[21:10:57] <whereistejas> That's it
+[21:11:12] <whereistejas> Let's have the next meeting on 17th July
+[21:11:34] <dhanesh95> We have one on 13th, right?
+[21:11:38] <dhanesh95> Weekly meeting.
+[21:11:50] <whereistejas> Yes. We do.
+[21:12:18] <dhanesh95> Let's catch up on our progress then.
+[21:12:34] <whereistejas> Meetup Location - COEP
+[21:12:48] <whereistejas> Meetup Time - 10 ~ 12 AM
+[21:13:06] <dhanesh95> Location subject to availability
+[21:13:14] <whereistejas> Talk 1 - Terminal commands by whereistejas - 45 minutes
+[21:13:22] <whereistejas> dhanesh95: +1
+[21:13:29] <werper> https://cloud.disroot.org/apps/gallery/s/DmwkmG5WbEDtSc9 in case you need to see the poster
+[21:13:43] <whereistejas> Talk 2 - CTF by gauravsitlani - 45 minutes
+[21:14:06] <whereistejas> Talk 3 - Customising bash/zsh/fish by dhanesh95 -  30 minutes
+[21:14:33] <whereistejas> Estimated cost of meetup per person - Rs. 150
+[21:15:01] <whereistejas> That, covers it up, I think...
+[21:15:07] <dhanesh95> Aye aye!
+[21:15:18] <gauravsitlani> Aye!
+[21:16:22] <werper> Aye!
+[21:19:23] <whereistejas> abhyankar[m]1: ?
+[21:19:42] <dhanesh95> Doesn't seem like he's around.
+[21:20:19] <whereistejas> Cool
+[21:20:30] <whereistejas> dhanesh95: Shall we end this meeting?
+[21:20:41] <dhanesh95> whereistejas: Yup
+[21:21:24] <dhanesh95> .endmeeting
