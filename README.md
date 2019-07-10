@@ -1,5 +1,5 @@
 # plug-meetings
-Team meeting - Every Saturday 8PM IST
+###Team meeting - Every Saturday 8PM IST
 PLUG meeting logs
 
 Related documents - 
@@ -9,3 +9,5 @@ Related documents -
 
 IRC Channel - #pluggies on freenode
 
+References to connect to IRC - 
+1. [Using Matrix/Riot](https://github.com/matrix-org/matrix-appservice-irc/wiki/Guide:-How-to-use-Matrix-to-participate-in-IRC-rooms)
