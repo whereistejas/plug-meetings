@@ -1,0 +1,112 @@
+Date: 2019-09-06
+
+[18:39:21] <whereistejas> werper|m: ping!
+[18:39:53] <werper|m> whereistejas:  Pong
+[18:40:34] <whereistejas> How are things?
+[18:41:45] <whereistejas> werper|m: I think we should start spamming the mailing list asking for "talk-proposals"
+[18:43:13] <werper|m> Things are quite good as of now
+[18:44:53] <werper|m> whereistejas:  Before we spam people I think we did come up with ideas for the meetup. Why are we holding back from our previous topics
+[18:45:17] <whereistejas> Now that I think of it
+[18:45:23] <whereistejas> I can't think of any reason
+[18:47:01] <whereistejas> Did you look at the mailing list, recently?
+[18:47:15] <whereistejas> Sankarshan Mukhopadhyay
+[18:47:19] <whereistejas> This person.
+[18:47:40] <whereistejas> I suggest you look at his LinkedIn profile
+[18:47:53] <whereistejas> We can ask him, if he would like to give a talk
+[18:48:07] <whereistejas> He is a part of the GNOME and Open Office community
+[18:48:50] <whereistejas> A talk along the lines of, "How to begin your open-source cotribution journey: The when and where?"
+[18:49:05] * whereistejas finds that he is being tooooo specific
+[18:49:40] <whereistejas> mr_pool_: Even if you are unable to attend, you are still welcome to participate in the discussions :)
+[18:51:20] <werper|m> If you ask me the talk on his Journey would be a great. But asking him to speak throughout not a great choice :P
+[18:53:47] <werper|m> If we find something of the same genre we could actually have something productive from the meetup
+[20:58:15] <whereistejas> We must also work on some audience at the same time
+[20:58:54] <whereistejas> Like let's try getting 10 students
+[23:50:04] <whereistejas> werper|m: Did you receive my messages from 20:58?
+[23:51:37] <werper|m> whereistejas yup received at 20.58
+[23:53:01] <dhanesh95|m> whereistejas: The bridge just reboots. That's it.
+[23:53:40] <whereistejas> I think, Dexter might me able to help us with the "how to contribute to open-source"-speaker-thingy...
+[23:54:36] <whereistejas> s/might me/might be
+[23:54:53] <whereistejas> That's one idea, we should definitely look into
+[23:55:02] <werper|m> Sounds good 👍
+[23:55:22] <whereistejas> What else do you have in mind?
+[23:55:47] <whereistejas> I am thinking of an actual contribution to some sort of project
+[23:56:11] <werper|m> Taking the same thing forward what if we could have an activity that would be a baby step towards open source contribution
+[23:56:21] <whereistejas> Like, a contribution-sprint
+[23:56:37] <whereistejas> Yes, exactly!
+[23:57:20] <whereistejas> A good project which will readily accept PR's is NeoMutt
+[23:57:40] <werper|m> whereistejas we can't say the audience we get would be technically sound so it should be something that each one should feel to be a part of it
+[23:57:47] <whereistejas> They are in dire need of good tutorials which have screenshots in them
+[23:58:15] <whereistejas> werper|m: Yes, that's the first contribution should be some form of documentation
+[23:58:24] <werper|m> I'll definitely have a look on it tomorrow
+[23:58:37] <whereistejas> s/that's the/that's why
+[23:58:57] <dhanesh95|m> If we are thinking of contributions, may I suggest OSM? Anyone can contribute to it. No tech knowledge required.
+[23:59:24] <whereistejas> the channel #neomutt on freenode is very active, you can find the creator of the project there, all the time
+[23:59:27] <dhanesh95|m> Easiest to setup too.
+[23:59:39] <whereistejas> dhanesh95|m: Yes, we can do that, too.
+[23:59:51] <werper|m> Dhanesh Sabane The Boss is here to rescue
+
+Date: 2019-09-07
+
+[00:00:54] <werper|m> We could suggest both the options
+[00:01:06] <whereistejas> Yes, I had the same thought
+[00:01:14] <whereistejas> Let's do both.
+[00:01:40] <werper|m> Need to look for time barriers
+[00:02:02] <whereistejas> werper|m: We have approx. 5 hours
+[00:02:16] <whereistejas> It'll be a full-day workshop
+[00:03:57] <whereistejas> I had another idea...
+[00:03:59] <dhanesh95|m> Lol. The true boss here is whereistejas
+[00:04:08] <werper|m> whereistejas correct me if I am wrong. I think lets take small steps. Lets make people aware we exist and then plan a full day workshop
+[00:04:58] <whereistejas> I thought we were post-poning the meetup to 21st because we could hold a full-day workshop
+[00:05:38] <werper|m> I thought it was our availability was the issue 😅
+[00:05:58] <whereistejas> Hi,
+[00:06:20] <whereistejas> Hi,
+[00:06:30] <whereistejas> sorry ignore that
+[00:06:53] <whereistejas> I suggest that we plan for Software freedom day. This time it falls on 21st September 2019.  We can go ahead with a full day event.  Today is 12th, this gives us more than a month to go ahead with the event, promotion, looking for speakers and workshop etc.
+[00:07:06] <whereistejas> This was the email Dexter wrote
+[00:07:57] <whereistejas> werper|m: yes, availability was also an issue 
+[00:08:23] <werper|m> We are short of time now to plan stuff's
+[00:08:50] <whereistejas> I think we can do it.
+[00:08:57] <werper|m> Technically not we still can manage something
+[00:09:29] <werper|m> whereistejas Yes sure we can
+[00:09:49] <whereistejas> If we can ensure that 50% of the attending crowd are students, we can pull it off
+[00:11:24] <dhanesh95|m> If you're planning for SFD, attendees should be your last concern.
+[00:11:49] <whereistejas> Okay
+[00:13:47] <dhanesh95|m> Just come up with free software topics and hold talks and workshops.
+[00:13:58] <whereistejas> I had another idea, we can do a git tutorial exercise. Like, create a repository, submit some example code. If properly planned, we can cover 6 or 7 basic git commands in an hour
+[00:14:17] <whereistejas> Do the whole merge request, and pull request thing
+[00:15:20] <whereistejas> there is always, the vim and regex plan we had come up with last time
+[00:16:29] <whereistejas> I suggest the git workshop thing, because I recently ran into git aliases (I don't know why I never heard of them before)
+[00:16:45] <whereistejas> They can make the whole git experience so much smoother
+[00:16:57] <werper|m> I'll take audience if its Git
+[00:17:09] <werper|m> Yup Vim and Regex is a good option to.
+[00:18:14] <whereistejas> For the "how to contribute to OP" talk, can we also ask Kushal?
+[00:18:26] <whereistejas> from #dgplug
+[00:18:45] <werper|m> We might need inputs to this from others as well
+[00:18:55] <whereistejas> Yes, obviously
+[00:19:13] <whereistejas> I will write a brief summary of this discussion to the mailing list
+[00:19:19] <whereistejas> And upload the logs
+[00:19:35] <dhanesh95|m> Let me throw another topic here - Building your own website and hosting it on GitHub / GitLab
+[00:19:58] <whereistejas> Yess
+[00:20:05] <whereistejas> I can totally do that
+[00:20:38] <werper|m> Dhanesh Sabane +1
+[00:22:18] <whereistejas> I think, we can also do a "free software showcasing"
+[00:22:35] <whereistejas> Like, little known programs that are just awesome
+[00:22:52] <whereistejas> They can come from the Android space, too
+[00:23:01] <whereistejas> Like from "F-Droid"
+[00:25:05] <werper|m> Yes could mention open source alternatives to all our daily use apps
+[00:26:34] <whereistejas> Okay. So, we have around 6~7 topics lined up, now
+[00:27:28] <whereistejas> 1. [General Talk] How to contribute to open-source?
+[00:27:51] <whereistejas> 2. A git workshop - End to end work cycle
+[00:28:25] <whereistejas> 3. SWG workshop - Build your own website/blog and host on git{hub,lab}
+[00:28:43] <whereistejas> 4. A Vim workshop
+[00:28:57] <whereistejas> 5. A regular expressions workshop
+[00:29:32] <whereistejas> 6. A contribution sprint - some form of documentation and OSM
+[00:30:07] <whereistejas> 7. [General Talk] - Open source alternatives/Free-software showcase
+[00:31:03] <whereistejas> Hi,
+[00:31:31] <whereistejas> sorry. ignore that.
+[00:31:53] <whereistejas> werper|m: Would you like to add anything else?
+[00:31:54] <werper|m> Fab just need to pick the ones that suit the best as of now
+[00:33:07] <whereistejas> I think, we should do the OSM contribution, no matter what.
+[00:35:08] <werper|m> whereistejas Nope you summed up everything
+[00:35:26] <werper|m> +1 to OSM contribution
+[00:35:33] <whereistejas> Cool
