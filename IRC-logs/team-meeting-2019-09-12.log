@@ -1,0 +1,206 @@
+[11:09:09] *** Joins: Dexter_OSC (~Dexter@117.228.198.21)
+[11:10:09] <Dexter_OSC> Hello People
+[11:14:19] <dhanesh95|m> Hey Dexter_OSC
+[11:14:20] <dhanesh95|m> How's it going?
+[11:14:28] <Dexter_OSC> Good
+[11:14:53] <Dexter_OSC> Did not see any interest from people on the mailing list for SFD
+[11:15:36] <dhanesh95|m> Dexter_OSC: Yeah. What do you think we should do? Take the efforts to arrange an event or just let it be?
+[11:15:59] <Dexter_OSC> I talked to tejas
+[11:16:44] <Dexter_OSC> Since people are not interested in coming forward.. I suggested that he can take talk/worksho... I can do Blender or something etc
+[11:17:13] <Dexter_OSC> I think  we can do it in SICSR this time
+[11:17:34] <Dexter_OSC> Probably will check out availability of room etc tommorrow
+[11:17:41] <Dexter_OSC> what say
+[11:23:19] <dhanesh95|m> I think people are interested in attending but not in organising the events.
+[11:24:44] <dhanesh95|m> So I think instead of a day long event, let's make it three hours and we'll cover only two or three topics from the ones Tejas suggested on the mailing list. How about that?
+[11:25:31] <dhanesh95|m> I know a few people are already interested in VIM and regex along with "building your own website on GitHub/GitLab"
+[11:34:53] <Dexter_OSC> ok
+[11:35:10] <Dexter_OSC> lets meet on IRC tonight around 8.30 IST
+[11:35:13] <Dexter_OSC> :D
+[11:35:17] <Dexter_OSC> and finalize
+[11:35:34] <dhanesh95|m> Sounds like a plan.
+[11:35:39] <dhanesh95|m> whereistejas: Ping!
+[11:35:55] <Dexter_OSC> Let me put a mail on  plug  and announce the same
+[11:36:07] <Dexter_OSC> about the meet today
+[11:36:07] <dhanesh95|m> Dexter_OSC: That will be gerat! Thanks! :)
+[11:36:25] <dhanesh95|m> s/gerat/great
+[11:41:04] <dhanesh95|m> whereistejas: sumant has setup i3 on his Fedora installation. Maybe you can share some polybar tips?
+[11:42:31] <Sumant> I would really appreciate
+[11:51:23] <Dexter_OSC> Done sending the mail
+[11:51:28] <Dexter_OSC> shows up in the archives
+[12:02:05] <mr_pool_> hey guys
+[12:02:24] <mr_pool_> i really don't know wether i would be able to attend or not
+[12:02:51] <mr_pool_> i can confirm it only a day before
+[12:03:11] <mr_pool_> if there's anything i could do to help please let me know
+[12:24:59] *** Joins: dhanesh95 (~Dhanesh@117.195.7.150)
+[12:25:28] <dhanesh95> mr_pool_: Sure. Let's decide that in today's meeting at 8:30 PM.
+[12:31:01] <mr_pool_> ok
+[13:13:53] *** Quits: Dexter_OSC (~Dexter@117.228.198.21) (Read error: No route to host)
+[17:20:54] *** Joins: Dexter_OSC (~Dexter@117.232.218.69)
+[17:46:34] <whereistejas> Hey, folks!
+[17:46:39] <whereistejas> dhanesh95: pong
+[17:46:54] <whereistejas> Sorry. I was out with fever for the last two days
+[17:47:07] <whereistejas> But, I'm back from the dead, now.
+[17:47:13] <whereistejas> Sumant: Ping
+[17:48:02] <whereistejas> Has anyone noticed in the movie the social network, during the hacking scene...
+[17:48:07] <Sumant> Its ok how are you now?
+[17:48:38] <whereistejas> Mark Zuckerberg (the character) says, "Let's pull out emacs and modify that perl script"
+[17:48:42] <whereistejas> What a douche
+[17:49:03] <whereistejas> Sumant: How is your i3 experience?
+[17:49:27] <whereistejas> I'm fine. Back to normal.
+[17:51:08] <Sumant> whereistejas: I have just installed  it
+[17:51:41] <whereistejas> Oh
+[17:51:54] <whereistejas> That's great
+[17:51:55] <Sumant> Now lets see how it works
+[17:52:28] <whereistejas> The first thing that you should do, it's change the keybindings to something, you would be more comfortable with
+[17:53:23] <whereistejas> And, add some keybindings to your most used apps
+[17:53:33] <Sumant> I am configuring it
+[17:53:43] <whereistejas> web browser, file manager, terminal, music player
+[17:54:27] <Sumant> I3 is supposed to ask us to select the mod key right
+[17:54:44] <whereistejas> That depends
+[17:54:46] <Sumant> It didnt
+[17:55:30] <Sumant> On what
+[17:55:30] <whereistejas> if it finds that an i3 config already exists, that it won't ask you and just use the config file
+[17:56:27] <whereistejas> if you delete or move the config to some other location, it will ask you to create a config and select a mod key, on your next restart
+[17:56:37] <whereistejas> https://www.youtube.com/watch?v=7RNgpvBMua0&list=PLt6-rPpOpkb3XKwdUoLtUhCqkMbyqomba
+[17:57:23] <whereistejas> You can refer to this playlist, it's not too slow but still in-depth
+[17:57:58] <Sumant> Ok i'll try it
+[17:58:09] <Sumant> Thank you
+[20:44:03] <whereistejas> Hey, folks!
+[20:44:10] <whereistejas> Time for our meeting?
+[20:44:20] <whereistejas> Am I too early, too late?
+[20:45:19] <whereistejas> Dexter_OSC: ping!
+[20:45:33] <Dexter_OSC> hello
+[20:46:09] <dhanesh95> Aloha
+[20:46:42] <dhanesh95> I'll be in and out. Working simultaneously.
+[20:47:32] <whereistejas> So, what are our plans or options?
+[20:53:36] *** Joins: no_mind (70c49f72@112.196.159.114)
+[20:53:45] <no_mind> hello guys
+[20:54:05] <no_mind> saw an email for some discussion on software freedom day
+[20:54:20] <dhanesh95> no_mind: Aloha!
+[20:54:24] <dhanesh95> Welcome!
+[20:54:30] <dhanesh95> We are just getting started.
+[20:55:06] <dhanesh95> Dexter_OSC: There?
+[20:55:09] <whereistejas> no_mind: glad that you are here!
+[20:55:14] <Dexter_OSC> yup
+[20:55:32] <Dexter_OSC> no_mind, long time no see
+[20:57:38] <whereistejas> In my opinion, we can do a vim thing and a "build your own website" thing
+[20:58:05] <dhanesh95> whereistejas: +1 to that
+[20:58:20] <no_mind> Dexter_OSC hello how are you doing
+[20:58:30] <Dexter_OSC> no_mind, good
+[20:58:43] <Sumant> +1
+[20:59:03] <whereistejas> Sumant: did you check out the playlist I shared?
+[20:59:54] <Sumant> Yes I did
+[21:00:08] <Sumant> I mean I am still doing
+[21:00:54] <whereistejas> Sumant: https://m.youtube.com/watch?v=j1I63wGcvU4
+[21:00:59] <werper|m> <dhanesh95 "I'll be in and out. Working simu"> Consider me with the same approach
+[21:02:14] <whereistejas> You can check this out, too... I started out with those tutorials, they are very nice.
+[21:03:57] <Sumant> I am referring those videos
+[21:04:22] <Sumant> But they are for ubuntu
+[21:04:54] <whereistejas> It won't matter
+[21:05:14] <whereistejas> You can always find same packages in your distributions repos
+[21:05:18] <Sumant> So there are a few things that I am not able to use
+[21:05:26] <whereistejas> Such as?
+[21:05:27] <Sumant> I mean I dont know how to
+[21:05:57] <whereistejas> Ask away... I will try to help you and we always have #i3
+[21:06:20] <Dexter_OSC> Ok people
+[21:06:25] <Dexter_OSC>  so what do we plan to do
+[21:06:27] <Dexter_OSC> ???
+[21:06:34] <Dexter_OSC> 3 to 4 hours stuff
+[21:06:58] <Dexter_OSC> approx 1 hour session for 3 topics
+[21:07:09] <Dexter_OSC> Stickers
+[21:07:13] <Dexter_OSC> etc
+[21:07:55] <Sumant> whereistejas: xbacklight, pctl
+[21:08:15] <whereistejas> pctl as in pavucontrol?
+[21:08:26] <whereistejas> xbacklight can be found on GitHub
+[21:08:31] <dhanesh95> Dexter_OSC: Let's finalise the three topics first?
+[21:08:43] <whereistejas> dhanesh95: +1
+[21:09:08] *** Quits: no_mind (70c49f72@112.196.159.114) (Remote host closed the connection)
+[21:09:24] <Dexter_OSC> I can offer Intro to blender basics
+[21:09:33] <Dexter_OSC> if nothing else is there
+[21:10:49] <Sumant> whereistejas: Sorry pactl
+[21:11:17] <whereistejas> Dexter_OSC: totally
+[21:11:26] <Sumant> And I have installed xbacklight but it is not working
+[21:12:04] <Dexter_OSC> whereistejas, Sumant  can we discuss for SFD :D
+[21:12:25] * werper|m sent a long message:  < https://matrix.org/_matrix/media/v1/download/matrix.org/EJoFdHtooPfOMGQhHkorobBD >
+[21:12:48] *** Quits: dhanesh95 (~Dhanesh@117.195.7.150) (Ping timeout: 245 seconds)
+[21:13:32] <whereistejas> Yes, sorry.
+[21:15:09] <whereistejas> I think, we can do one hour of vim
+[21:15:13] <Sumant> Yes
+[21:15:14] <Sumant> Sorry
+[21:15:35] <Dexter_OSC> hmm
+[21:15:35] <whereistejas> Another for blog+gitlab
+[21:15:37] <Dexter_OSC> what else
+[21:15:43] <whereistejas> And blender
+[21:16:03] <Dexter_OSC> Will do blender if nothing else is happening
+[21:16:06] <Dexter_OSC> :D
+[21:16:17] <whereistejas> werper|m: want to do inkscape?
+[21:17:37] <whereistejas> no_mind: what do you think?
+[21:17:41] *** Joins: no_mind (70c49f72@112.196.159.114)
+[21:18:33] <werper|m> Can I do it next time. I need to get hands on it
+[21:23:47] <whereistejas> Vishal from python Pune was recently talking about a python linting utility called black
+[21:24:14] <whereistejas> I have been trying to get in touch with him, with no success
+[21:24:40] <whereistejas> Can someone ask him if he wants to give a talk?
+[21:27:01] <dhanesh95|m> I think there is a Python Pune group on Telegram. We might find him there.
+[21:27:54] <dhanesh95|m> If Prasad Mehendale is going to join, we can always ask him to give the starting introduction to Free Software. We should probably ask him.
+[21:28:17] <whereistejas> Or, GNU Octave
+[21:32:30] <dhanesh95|m> And I think we should use the last hour to focus on "Free Software". So we can either have a showcase of excellent Free alternatives to everyday apps and services.
+[21:33:44] <dhanesh95|m> s/can either have/can have
+[21:34:21] <whereistejas> Totally agree with that
+[21:39:26] <whereistejas> Or, can we invite Siddhesh Poyarekar?
+[21:40:05] <whereistejas> Can I send him an email?
+[21:40:44] <Dexter_OSC> I dont understand why people do not want to take initative from there side
+[21:52:00] <Dexter_OSC> I had talked to Prasad, seem he is interested
+[21:52:22] <whereistejas> That's nice
+[21:52:37] <Dexter_OSC> So lets say: around 45 Minutes for What is Software Freedom -- Prasad
+[21:53:02] <Dexter_OSC> Vim Vs Emacs  Tejas V/S Prasad
+[21:53:04] <Dexter_OSC> :D
+[21:53:57] <whereistejas> 😅😅😅
+[22:02:41] *** Quits: Dexter_OSC (~Dexter@117.232.218.69) (Ping timeout: 265 seconds)
+[22:06:17] <whereistejas> Should I still ask Vishal if he wants to give a talk?
+[22:06:32] <whereistejas> I got his number from the folks at #pythonpune 
+[22:16:28] *** Joins: Dexter_OSC (~Dexter@117.228.167.207)
+[22:16:41] <Dexter_OSC> Ok so lets freeze on some topic
+[22:28:13] <dhanesh95|m> Did we decide the topic yet?
+[22:30:55] <whereistejas> Okay
+[22:31:31] <whereistejas> 1. Vim
+[22:31:49] <whereistejas> 2. Build your own website and host on GitHub for free
+[22:31:59] <whereistejas> 3. ?
+[22:32:33] <Dexter_OSC> Is github not owned by MS now
+[22:33:03] <whereistejas> Free software alternatives?
+[22:33:12] <whereistejas> Yes
+[22:33:16] <dhanesh95|m> Dexter_OSC: It sure is. That's why I think we should focus on GitLab.
+[22:33:23] <whereistejas> We can do Gitlab
+[22:33:34] <whereistejas> There are also a lot of open source options
+[22:33:53] <whereistejas> But I'm not sure they provide hosting
+[22:34:02] <Dexter_OSC> what kind of hosting
+[22:34:38] <dhanesh95|m> Dexter_OSC: Web hosting. Like https://whereistejas.github.io
+[22:34:47] <whereistejas> Automatically converting a repository into a website
+[22:34:52] <whereistejas> dhanesh95|m: 😅😅😅
+[22:36:32] <whereistejas> If we are going to do a blog+Gitlab talk, we will have to make sure the meetup location has internet
+[22:38:54] <dhanesh95|m> whereistejas: For that talk, only the speaker will need an internet connection. We can always arrange a mobile hotspot.
+[22:40:09] *** Joins: dhanesh95 (~Dhanesh@117.214.112.158)
+[22:41:16] <dhanesh95> I think we are sorted now.
+[22:41:31] <dhanesh95> 1. Talk by Prasad - What is Software Freedom?
+[22:42:04] <dhanesh95> 2. VIM your life - Tejas
+[22:42:16] <dhanesh95> 3. Hosting your own website on GitLab - Tejas?
+[22:42:49] <whereistejas> dhanesh95|m: wouldn't other people join the speaker?
+[22:42:59] *** Quits: Dexter_OSC (~Dexter@117.228.167.207) (Remote host closed the connection)
+[22:43:13] <whereistejas> I think you should do it
+[22:43:45] <dhanesh95> whereistejas: Only if they want to. Let's keep it optional. They will have to arrange their own internet connection.
+[22:44:35] <dhanesh95> whereistejas: I'm a bit skeptical about my attendance. Besides, you give great talks. :P
+[22:45:04] <whereistejas> I wish, Suraj was here
+[22:46:32] <whereistejas> We can post the third talk on the mailing list
+[22:46:41] <whereistejas> Asking for someone to do it
+[22:46:52] <dhanesh95> whereistejas: +1
+[22:47:02] <whereistejas> If someone shows up, great! Otherwise, I will do it
+[22:47:03] <dhanesh95> But if no one comes up, what's the backup solution?
+[22:47:09] <dhanesh95> Awesome!
+[22:47:25] <whereistejas> Cool
+[22:47:38] <dhanesh95> So talks are sorted.
+[22:47:43] <dhanesh95> Let's talk logistics and venue
+[22:47:48] <whereistejas> Yes
+[22:48:52] <whereistejas> Let's do the time thing 
+[22:50:07] <whereistejas> I think, 11am to 2pm?
+[22:52:58] <dhanesh95> Ahh.. Dexter left. We could've asked him.
+[22:53:19] <dhanesh95> Let's go with what Dexter suggests. He has better experience.
+[22:55:15] <whereistejas> Yes
